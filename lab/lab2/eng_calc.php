@@ -44,3 +44,4 @@ $ln_e2 = log(pow(M_E, 2));
 echo "<b>5. Logarithms:</b><br>";
 echo "log2(1024) = $log2_1024 | log10(1,000,000) = $log10_mil | ln(e²) = $ln_e2<br>";
 ?>
+//finally
